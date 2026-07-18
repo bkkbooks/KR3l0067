@@ -32,6 +32,7 @@ markers:
       ', id: KR3l0067_SBCK_004-bkkkrnewl7}
   - {type: line-break, offset: 107, content: '', id: KR3l0067_SBCK_004-1a07}
   - {type: punctuation, offset: 118, content: (, id: KR3l0067_SBCK_004-bkkpn1}
+  - {type: voice, offset: 118, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 119, content: ), id: KR3l0067_SBCK_004-bkkpn2}
   - {type: 'kr:newline', offset: 127, content: '
 
@@ -628,6 +629,7 @@ markers:
       ', id: KR3l0067_SBCK_004-bkkkrnewl153}
   - {type: line-break, offset: 2662, content: '', id: KR3l0067_SBCK_004-6b10}
   - {type: punctuation, offset: 2681, content: (, id: KR3l0067_SBCK_004-bkkpn3}
+  - {type: voice, offset: 2681, length: 1, name: note, id: n2}
   - {type: punctuation, offset: 2682, content: ), id: KR3l0067_SBCK_004-bkkpn4}
   - {type: 'kr:newline', offset: 2682, content: '
 
@@ -730,6 +732,7 @@ markers:
       ', id: KR3l0067_SBCK_004-bkkkrnewl178}
   - {type: line-break, offset: 3081, content: '', id: KR3l0067_SBCK_004-7b09}
   - {type: punctuation, offset: 3096, content: (, id: KR3l0067_SBCK_004-bkkpn5}
+  - {type: voice, offset: 3096, length: 1, name: note, id: n3}
   - {type: punctuation, offset: 3097, content: ), id: KR3l0067_SBCK_004-bkkpn6}
   - {type: 'kr:newline', offset: 3101, content: '
 
@@ -964,6 +967,7 @@ markers:
       ', id: KR3l0067_SBCK_004-bkkkrnewl236}
   - {type: line-break, offset: 4077, content: '', id: KR3l0067_SBCK_004-10a02}
   - {type: punctuation, offset: 4086, content: (, id: KR3l0067_SBCK_004-bkkpn7}
+  - {type: voice, offset: 4086, length: 12, name: note, id: n4}
   - {type: punctuation, offset: 4092, content: /, id: KR3l0067_SBCK_004-bkkpn8}
   - {type: punctuation, offset: 4098, content: ), id: KR3l0067_SBCK_004-bkkpn9}
   - {type: 'kr:newline', offset: 4103, content: '
@@ -1078,4 +1082,4 @@ markers:
 
       ', id: KR3l0067_SBCK_004-bkkkrnewl264}
   back: []
-hash: sha256:65e2b026fc263dcc4497ae665d4a7ec26d099ad58866161ab07317eadc6d46ae
+hash: sha256:429041f3bed227910841fadb896bce335bdbebe313dac10b086866196e20eb16
